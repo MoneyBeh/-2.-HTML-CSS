@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first page</title>
+</head>
+<body>
+    <h1> Всем Привет! </h1>
+    <h2> Рассылка нужных сайтов </h2>
+    <p> Внизу по ссылке можно найти разные сайты по разным темам <em>достижениях</em> <br> <!-- принудительный перенос строки--> 
+        по разным темам <strong> например: </strong> где можно купить интересные книги, найти работу, знакомство. 
+    </p>
+    <p> Также внизу <strong> эл. почта и тел по которому Вы сможете связаться </strong> <br> <!-- принудительный перенос строки--> 
+        Вы сможете связаться с нами:
+        Телефон: +7 903 968-69-45
+        Instagram: <a href="mailto:EMAIL"> byatimov
+        </a>
+        ссылку на канал в YouTube: <a>https://www.youtube.com</a> 
+
+    </p>
+    <!--Ссылка-->
+<p>
+    <ul> <a href="https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155" >Интересные книги</a></ul>
+   
+    <ul><a href="https://xn--b1ade2aqidj.xn--p1ai/" >Работа</a></ul><img src="https://rsv.ru/blog/wp-content/uploads/2020/12/rabota-komandy-918x516.jpg" alt="">
+    "
+    
+    <ul><a href="https://www.internationalcupid.com/lp/na?ovchn=GGL&ovcpn=Russian+Rest+of+World&ovcrn=%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2&ovag=Core&ovmtc=b&ovraw=g&ovtac=control&gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDMQhLFLOCtne91fAAfAJ9PaQ3E4DhdFJg3jMN6UAXmD2-QeHLMvhoCrHIQAvD_BwE" >сайт знакомство</a></ul><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzSFIMWKYW2g9k_NrrlwKSUvq5fG9fTFM3Qjgnq1bhcKnM2ZLfbBtQY7IVlcCIQZeBbM&usqp=CAU" alt="">
+
+</p>    
+    
+</body>
+</html>
